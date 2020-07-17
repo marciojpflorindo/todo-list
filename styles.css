@@ -1,0 +1,48 @@
+body {
+	text-align: center;
+	background-color: #b2cecf;
+	font-family: sans-serif;
+}
+
+li {
+	text-align: left;
+}
+
+h1 {
+	font-size: 3rem;
+}
+/* |||||||||||||||||||||||||||||||||||| */
+/* Título */
+
+.title {
+	margin: 50px 0;
+}
+
+/* |||||||||||||||||||||||||||||||||||| */
+/* Adicionar cenas */
+.add-items {
+	margin: 20px 0;
+}
+
+.input-new-item {
+	width: 200px;
+	height: 40px;
+	border: solid 3px black;
+	font-size: 1.2rem;
+	padding: 5px 10px;
+}
+
+.add-button {
+	height: 40px;
+	border: solid 3px black;
+	border-left: 0;
+	background-color: black;
+	color: white;
+	font-size: 1.2rem;
+	padding: 1px 7px;
+}
+
+.remove-button {
+	background-color: #a63b38;
+	color: white;
+}
